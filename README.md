@@ -4,7 +4,7 @@ My name is Iker, here's some things about myself
   - My favourite artist is [Billie Eilish](https://en.wikipedia.org/wiki/Billie_Eilish)
   - tiktokaholic
 
-<img alt="Github Status" src="https://img.shields.io/badge/currently-online-lime" /> <img alt="Github Spotify Status" src="https://img.shields.io/badge/listening_to-What's_The_Time_Where_You_Are?_by_Troye_Sivan-none?logo=spotify&logoColor=white&color=00ef65" />
+<img alt="Github Status" src="https://img.shields.io/badge/currently-online-lime" /> <img alt="Github Spotify Status" src="https://img.shields.io/badge/listening_to-Whats_The_Time_Where_You_Are?_by_Troye_Sivan-none?logo=spotify&logoColor=white&color=00ef65" />
 
 ## Coding Languages I know
 [![My Skills](https://skillicons.dev/icons?i=html,css,python)](https://skillicons.dev)
