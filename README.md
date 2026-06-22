@@ -5,7 +5,7 @@ My name is Iker, here's some things about myself
   - tiktokaholic
 
 ## Coding Languages I know
-[![My Skills](https://skillicons.dev/icons?i=html,css,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,lua)](https://skillicons.dev)
 ### Coding Languages I want to learn
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp)](https://skillicons.dev)
 
