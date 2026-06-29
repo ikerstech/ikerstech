@@ -1,43 +1,16 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Workbench:SCAN@-45&display=swap" rel="stylesheet">
-
-<style type="text/css">
-  @font-face {
-    font-family: "Lexend Giga Bold";
-    src: url('fonts/LexendGiga-Bold.woff2')
-  }
-
-  @font-face {
-    font-family: "Lexend Light";
-    src: url('fonts/Lexend-Light.woff2')
-  }
-
-  
-  .workbench-evenly {
-    font-family: "Workbench", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
-    font-variation-settings:
-      "BLED" 0,
-      "SCAN" -45;
-  }
-</style>
-
 <div align="center">
-  <img src="iker_ezq-banner.png" style="border-radius: 14px;" />
+  <img src="iker_ezq-banner.png" />
 </div>
 
-<h3 align="center" style="font-family: 'Lexend Giga Bold';">👋 Hello World!</h4>
-<p align="center" style="font-family: 'Lexend Light';">I'm Iker<br />A coding, UI/UX desing & music enthusiast</p>
+<h3 align="center">👋 Hello World!</h4>
+<p align="center">I'm Iker<br />A coding, UI/UX desing & music enthusiast</p>
 
 ---
 
 <table align="center">
   <tr>
     <td align="right">
-      <b class="workbench-evenly">./socials</b>
+      <b>./socials</b>
     </td>
     <td>
       <a href="https://www.tiktok.com/@iker_ezq" target="_blank"><img src="icons/tiktok.png" height="48" width="48" /></a>
@@ -50,7 +23,7 @@
 
   <tr>
     <td align="right"> 
-      <b class="workbench-evenly">./apps</b>
+      <b>./apps</b>
     </td>
     <td>
       <a href="https://www.skillicons.dev"><img src="icons/figma.png" height="48" width="48" /></a>
@@ -61,7 +34,7 @@
 
   <tr>
     <td align="right">
-      <b class="workbench-evenly">./code/languages</b>
+      <b>./code/languages</b>
     </td>
     <td>
       <a href="https://www.skillicons.dev"><img src="icons/css.png" height="48" width="48" /></a>
@@ -72,7 +45,7 @@
 
   <tr>
     <td align="right">
-      <b class="workbench-evenly">./code/languages/learning</b>
+      <b>./code/languages/learning</b>
     </td>
     <td>
       <a href="https://www.skillicons.dev"><img src="icons/c.png" height="48" width="48" /></a>
@@ -83,7 +56,7 @@
 
   <tr>
     <td align="right">
-      <b class="workbench-evenly">./markup/languages</b>
+      <b>./markup/languages</b>
     </td>
     <td>
       <a href="https://www.skillicons.dev"><img src="icons/html.png" height="48" width="48" /></a>
@@ -93,7 +66,7 @@
 
   <tr>
     <td align="right">
-      <b class="workbench-evenly">./os</b>
+      <b>./os</b>
     </td>
     <td>
       <a href="https://www.skillicons.dev"><img src="icons/windows.png" height="48" width="48" /></a>
